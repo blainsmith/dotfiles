@@ -1,6 +1,10 @@
-*
+.*
+Downloads
+Dropbox
+Projects
+logs
 
-!.oh-my-zsh
+!oh-my-zsh/*
 !.bash_profile
 !.bashrc
 !.gitignore

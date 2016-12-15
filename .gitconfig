@@ -1,0 +1,9 @@
+[credential]
+	helper = cache
+[user]
+	name = Blain Smith
+	email = rebelgeek@blainsmith.com
+[merge]
+	ff = false
+[core]
+	editor = atom

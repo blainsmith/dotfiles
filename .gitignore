@@ -1,8 +1,4 @@
-.*
-Downloads
-Dropbox
-Projects
-logs
+*
 
 !oh-my-zsh/*
 !.bash_profile

@@ -1,5 +1,6 @@
 *
 
+!.config/terminator/config
 !oh-my-zsh/*
 !.bash_profile
 !.bashrc

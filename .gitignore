@@ -1,7 +1,11 @@
-*
+/*
 
-!.config/terminator/config
-!oh-my-zsh/*
+!/.config/
+/.config/*
+!/.config/terminator
+
+!/oh-my-zsh/
+
 !.bash_profile
 !.bashrc
 !.gitconfig

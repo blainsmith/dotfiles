@@ -1,10 +1,13 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 export GOPATH="$HOME/Projects/golang"
+exprot PATH="$PATH:$GOPATH/bin"
 
-export PATH="$PATH:/usr/local/go/bin:$GOPATH/bin"
-export PATH="$PATH:/usr/local/node/bin"
 export PATH="$PATH:/usr/local/protoc/bin"
+export PATH="$PATH:/usr/local/Postman"
+
+export PATH="$HOME/.linuxbrew/bin:$PATH"
+export XDG_DATA_DIRS="$HOME/.linuxbrew/share:$XDG_DATA_DIRS"
 
 # Path to your oh-my-zsh installation.
 export ZSH=~/.oh-my-zsh

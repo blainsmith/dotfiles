@@ -1,7 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 export GOPATH="$HOME/Projects/golang"
-exprot PATH="$PATH:$GOPATH/bin"
+export PATH="$PATH:$GOPATH/bin"
 
 export PATH="$PATH:/usr/local/protoc/bin"
 export PATH="$PATH:/usr/local/Postman"

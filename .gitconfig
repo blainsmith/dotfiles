@@ -2,8 +2,11 @@
 	helper = cache
 [user]
 	name = Blain Smith
-	email = rebelgeek@blainsmith.com
+	email = blainsmith@users.noreply.github.com
+	signingkey = B89781781EA8681A
 [merge]
 	ff = false
 [core]
-	editor = atom
+	editor = atom --wait
+[commit]
+	gpgsign = true

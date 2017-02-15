@@ -62,6 +62,7 @@ ZSH_CUSTOM=~/oh-my-zsh/custom
 plugins=(git github git-flow-avh archlinux go heroku node npm pip postgres redis-cli zsh_reload)
 
 source $ZSH/oh-my-zsh.sh
+source ~/.secretsrc
 
 # User configuration
 

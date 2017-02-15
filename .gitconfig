@@ -2,7 +2,7 @@
 	helper = cache
 [user]
 	name = Blain Smith
-	email = blainsmith@users.noreply.github.com
+	email = rebelgeek@blainsmith.com
 	signingkey = B89781781EA8681A
 [merge]
 	ff = false

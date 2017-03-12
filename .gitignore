@@ -4,6 +4,10 @@
 /.config/*
 !/.config/terminator
 
+!/.ssh/
+/.ssh/*
+!/.ssh/config
+
 !/oh-my-zsh/
 
 !.bash_profile

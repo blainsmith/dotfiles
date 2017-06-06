@@ -4,9 +4,10 @@
 	name = Blain Smith
 	email = rebelgeek@blainsmith.com
 	signingkey = B89781781EA8681A
-[merge]
-	ff = false
 [core]
 	editor = atom --wait
-[commit]
-	gpgsign = true
+[gui]
+	fontui = -family Cantarell -size 12 -weight normal -slant roman -underline 0 -overstrike 0
+	fontdiff = -family \"Go Mono\" -size 10 -weight normal -slant roman -underline 0 -overstrike 0
+	spellingdictionary = none
+	tabsize = 4

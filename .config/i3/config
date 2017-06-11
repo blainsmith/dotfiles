@@ -141,6 +141,7 @@ assign [class="Code"] $workspace3
 assign [class="jetbrains-studio"] $workspace3
 assign [class="Slack"] $workspace10
 
+for_window [class="Git-gui"] fullscreen
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)

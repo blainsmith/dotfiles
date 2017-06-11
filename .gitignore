@@ -3,6 +3,7 @@
 !/.config/
 /.config/*
 !/.config/terminator
+!/.config/i3
 
 !/.ssh/
 /.ssh/*

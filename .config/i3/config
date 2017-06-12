@@ -99,16 +99,16 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # switch to workspace
-set $workspace1 "1. "
-set $workspace2 "2. "
-set $workspace3 "3. {}"
-set $workspace4 "4. "
-set $workspace5 "5. "
-set $workspace6 "6. "
-set $workspace7 "7. "
-set $workspace8 "8. "
-set $workspace9 "9. "
-set $workspace10 "10. "
+set $workspace1 "1. web"
+set $workspace2 "2. terminal"
+set $workspace3 "3. code"
+set $workspace4 "4. etc"
+set $workspace5 "5. etc"
+set $workspace6 "6. etc"
+set $workspace7 "7. etc"
+set $workspace8 "8. etc"
+set $workspace9 "9. etc"
+set $workspace10 "10. misc"
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1

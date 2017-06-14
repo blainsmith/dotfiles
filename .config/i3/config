@@ -136,6 +136,8 @@ bindsym $mod+Shift+0 move container to workspace $workspace10
 
 # Default applications to workspaces
 assign [class="Chromium"] $workspace1
+assign [class="Google-chrome"] $workspace1
+assign [class="Firefox"] $workspace1
 assign [class="Xfce4-terminal"] $workspace2
 assign [class="Code"] $workspace3
 assign [class="jetbrains-studio"] $workspace3

@@ -218,7 +218,4 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym $mod+shift+x exec i3lock-fancy
 
 # Ensure touch to click is enabled on the touchpad
-exec xinput set-prop 12 275 1
-
-#Ensure natural scrolling is enabled on the touchpad
-exec xinput set-prop 12 285 1
+exec --no-startup-id source ~/.xinputrc

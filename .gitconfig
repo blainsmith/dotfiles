@@ -11,3 +11,5 @@
 	fontdiff = -family \"Go Mono\" -size 10 -weight normal -slant roman -underline 0 -overstrike 0
 	spellingdictionary = none
 	tabsize = 4
+[http]
+	cookiefile = /home/blainsmith/.gitcookies

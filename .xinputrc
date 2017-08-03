@@ -1,9 +1,0 @@
-for id in `xinput --list|grep -E '(TouchPad)(.*)pointer'|perl -ne 'while (m/id=(\d+)/g){print "$1\n";}'`; do
-    xinput set-prop $id 275 1
-    xinput set-prop $id 276 1
-done
-
-for id in `xinput --list|grep -E '(Mouse|TouchPad)(.*)pointer'|perl -ne 'while (m/id=(\d+)/g){print "$1\n";}'`; do
-    xinput set-prop $id 285 1
-    xinput set-prop $id 286 1
-done

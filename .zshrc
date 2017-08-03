@@ -1,7 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export GOPATH="$HOME/Projects/golang"
-export PATH="$PATH:$GOPATH/bin"
+# export GOPATH="$HOME/Projects/golang"
+export PATH="$PATH:$HOME/go/bin"
 
 export PATH="$PATH:/usr/local/protoc/bin"
 export PATH="$PATH:/usr/local/Postman"
@@ -53,7 +53,7 @@ ZSH_THEME="spaceship"
 # HIST_STAMPS="mm/dd/yyyy"
 
 # Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=~/oh-my-zsh/custom
+ZSH_CUSTOM=~/oh-my-zsh/custom
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/

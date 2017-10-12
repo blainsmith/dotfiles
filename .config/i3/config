@@ -217,5 +217,5 @@ bindsym XF86AudioPrev exec playerctl previous
 # Lock the screen
 bindsym $mod+shift+x exec i3lock-fancy
 
-# Ensure touch to click is enabled on the touchpad
-exec --no-startup-id source ~/.xinputrc
+exec --no-startup-id /home/blainsmith/.config/i3/scripts/tap_to_click
+exec --no-startup-id /home/blainsmith/.config/i3/scripts/inverse_scroll

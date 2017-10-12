@@ -6,6 +6,9 @@ export PATH="$PATH:$HOME/go/bin"
 export PATH="$PATH:/usr/local/protoc/bin"
 export PATH="$PATH:/usr/local/Postman"
 
+export GOPATH="$HOME/go"
+export JAVA_HOME="/usr/lib/jvm/default"
+
 export PATH="$HOME/.linuxbrew/bin:$PATH"
 export XDG_DATA_DIRS="$HOME/.linuxbrew/share:$XDG_DATA_DIRS"
 

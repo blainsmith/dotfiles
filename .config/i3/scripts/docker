@@ -1,0 +1,11 @@
+#!/bin/sh
+
+images=$(docker images | sed '/^\s*$/d' | wc -l)
+volumes=$(docker volume ls | sed '/^\s*$/d' | wc -l)
+containers=$(docker container ls | sed '/^\s*$/d' | wc -l)
+
+images=$((images-1))
+volumes=$((volumes-1))
+containers=$((containers-1))
+
+echo "${images} · ${volumes} · ${containers}"

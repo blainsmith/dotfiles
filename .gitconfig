@@ -8,7 +8,7 @@
 	editor = atom --wait
 [gui]
 	fontui = -family Cantarell -size 12 -weight normal -slant roman -underline 0 -overstrike 0
-	fontdiff = -family \"Go Mono\" -size 10 -weight normal -slant roman -underline 0 -overstrike 0
+	fontdiff = -family \"Droid Sans Mono\" -size 11 -weight normal -slant roman -underline 0 -overstrike 0
 	spellingdictionary = none
 	tabsize = 4
 [http]

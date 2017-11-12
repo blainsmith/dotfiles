@@ -5,7 +5,7 @@
 	email = rebelgeek@blainsmith.com
 	signingkey = B89781781EA8681A
 [core]
-	editor = atom --wait
+	editor = micro
 [gui]
 	fontui = -family Cantarell -size 12 -weight normal -slant roman -underline 0 -overstrike 0
 	fontdiff = -family \"Droid Sans Mono\" -size 11 -weight normal -slant roman -underline 0 -overstrike 0

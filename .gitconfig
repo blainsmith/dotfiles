@@ -13,3 +13,5 @@
 	tabsize = 4
 [http]
 	cookiefile = /home/blainsmith/.gitcookies
+[url "git@github.com:"]
+	insteadOf = https://github.com/

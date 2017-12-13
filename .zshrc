@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 # export GOPATH="$HOME/Projects/golang"
 export PATH="$PATH:$HOME/go/bin"
-
+export PATH="$PATH:/usr/local/flutter/bin"
 export PATH="$PATH:/usr/local/protoc/bin"
 export PATH="$PATH:/usr/local/Postman"
 

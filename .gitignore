@@ -4,6 +4,7 @@
 /.config/*
 !/.config/terminator
 !/.config/i3
+!/.config/fish
 
 !/.ssh/
 /.ssh/*

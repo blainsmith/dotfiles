@@ -5,6 +5,7 @@
 !/.config/terminator
 !/.config/i3
 !/.config/fish
+!/.config/omf
 
 !/.ssh/
 /.ssh/*
